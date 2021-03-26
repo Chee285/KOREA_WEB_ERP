@@ -13,3 +13,5 @@
 ![README%20b3223dd9cff94fbf9ad32120f4c648d1/KakaoTalk_20210317_183513724.png](README%20b3223dd9cff94fbf9ad32120f4c648d1/KakaoTalk_20210317_183513724.png)
 
 🗓03월 18일 ~ 03월 22일 :  부족한 컨텐츠 회의 및 새로운 컨텐츠 추가와 역할에 분배
+🗓03월 23일 ~ 03월 25일 :  1. 목업 작업 진행하였습니다. https://ovenapp.io/view/IVk9EIRutNc4nZ7LkNpbHMr4VVyc8OJP/ 2. DB설계
+🗓03월 27일 ~ 00월 00일 :  SQL문 도출및 DB설계
